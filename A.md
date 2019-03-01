@@ -36,6 +36,8 @@
 
 并非所有消费者都有相同的喜好，提供后用户满意度反而会下降；
 
-![kano](http://https://github.com/Aenua/Pensieve/blob/A/warehouse/KANO.jpg)
+![kano](
+        Pensieve/warehouse/KANO.jpg
+      )
 
 
